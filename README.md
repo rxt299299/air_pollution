@@ -36,3 +36,8 @@
   - for each site, compare the performance between individual model(site level) and overall model
   
   
+## References
+- https://towardsdatascience.com/lets-do-feature-engineering-5731efc3d7fe
+- https://neptune.ai/blog/lightgbm-parameters-guide
+- https://docs.neptune.ai/integrations/lightgbm/
+  
