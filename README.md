@@ -27,6 +27,7 @@
 - lightgbm_training_tuning.py:
   - tuning and find the best combination of hpyer parameters for each air pollution model training
   - save the best config
+  - https://app.neptune.ai/rxt299299/airpollution/
 
 ### Step 3:
 - training_with_best_configs:
