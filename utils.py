@@ -2,6 +2,7 @@ air_pollutions = ["nox", "no2", "no", "o3", "pm2.5", "pm10"]
 weathers = ["ws", "wd", "temp", "RH"]
 weathers_2 = ["ssr", "tp", "blh", "tcc", "sp", "tc"]
 times = ["date_unix", "week", "weekday", "hour", "month", "day_julian"]
+optional_x = ["o3"]
 
 
 continuous_variables = [
@@ -20,6 +21,7 @@ continuous_variables = [
     "met_long",
     "date_unix",
     "year",
+    "o3",
 ]
 
 category_variables = [
@@ -46,3 +48,11 @@ FIXED_PARAMS = {
     "min_sum_hessian_in_leaf": 1e-3,
     "lambda_l2": 2e-1,
 }
+
+
+sites_name_with_o3 = ['AstonHill',
+ 'BirminghamA4540',
+ 'BristolStPauls',
+ 'LeedsCentre',
+ 'MaryleboneRoad',
+ 'NorthKensington']
