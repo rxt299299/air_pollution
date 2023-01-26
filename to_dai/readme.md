@@ -1,7 +1,7 @@
 模型介绍和predict.py使用方法：
 
 union站点的模型分为两种, 一种是不加o3作为x变量的, 一种是将o3作为x变量的，
-
+最终的预测结果会是返回的csv里面的一列，如果预测no2的话，列名就为no2_predict
 
 - union model, 不加o3作为x变量的
   - model 路径: models/without_o3/
