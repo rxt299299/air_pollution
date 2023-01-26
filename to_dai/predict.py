@@ -5,6 +5,8 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 
+###################################################
+####################################################
 # Input
 air_pollution = "no2"
 with_o3 = True
@@ -12,7 +14,8 @@ if_union = False
 if_tc = True
 single_site_code = 'MY1'
 csv_path = "MaryleboneRoad.csv"
-
+#####################################################
+#####################################################
 
 # Functions
 def extract_year(row):
