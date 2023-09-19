@@ -10,8 +10,8 @@ from datetime import datetime
 # Input
 air_pollution = "no2"
 with_o3 = True
-if_union = False
-if_tc = True
+if_union = True
+if_tc = False
 single_site_code = 'MY1'
 csv_path = "MaryleboneRoad.csv"
 #####################################################
