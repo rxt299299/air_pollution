@@ -1,5 +1,8 @@
 # air_pollution
 **Air pollutant dispersion in street canyons**
+
+### Funding
+**This research project received funding from the School of Geography, Earth, and Environmental Sciences at the University of Birmingham.**
 ## Background
 Air pollution caused by the heavy emissions from vehicles can easily become trapped in city streets with limited airflow, posing a significant risk to public health and emerging as a critical concern. To effectively manage air quality in these urban "hotspots," there is a pressing need to gain a clearer understanding of how these pollutants behave and to develop practical tools for evaluating air quality improvement efforts.
 
